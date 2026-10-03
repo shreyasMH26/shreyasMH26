@@ -2,7 +2,7 @@
      viewBox="0 0 1720 290"
      width="1720" height="290"
      role="img"
-     aria-label="GitHub contribution heatmap for shreyasMH26 — 331 contributions">
+     aria-label="GitHub contribution heatmap for shreyasMH26 — 332 contributions">
 
   <!-- Card Frame & Background -->
   <rect width="1720" height="290" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
@@ -20,7 +20,7 @@
   <!-- Sub-header Stats -->
   <circle cx="259" cy="38" r="4.5" fill="#39d353"/>
   <text class="ff stat-main" x="271" y="43">
-    331 <tspan font-weight="400" fill="#8b949e">contributions in the last year</tspan>
+    332 <tspan font-weight="400" fill="#8b949e">contributions in the last year</tspan>
   </text>
   <text class="ff stat-sub" x="1467" y="43" text-anchor="end">
     streak: <tspan class="stat-badge">15d</tspan>   
